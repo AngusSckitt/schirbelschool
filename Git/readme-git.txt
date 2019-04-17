@@ -8,4 +8,4 @@ Exercícios:
 ✓	Criar um repositório para essa lição de casa
 ✓	Criar um arquivo README.md na sua máquina, nele escrever os tópicos que veremos
 ✓	Subir esse arquivo para o seu repositório no github.
-•	Criar uma pasta e um README para cada tópico que veremos. No README deve conter cada sub tópico que veremos.
+✓	Criar uma pasta e um README para cada tópico que veremos. No README deve conter cada sub tópico que veremos.
