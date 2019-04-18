@@ -1,1 +1,0 @@
-  awerglçnsl;awerlçaserjg
